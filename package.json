@@ -2,7 +2,7 @@
   "name": "angular-metarender",
   "version": "1.0.0",
   "description": "angular-metarender is a node module which is help to render siwith meta property",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "npm test"
