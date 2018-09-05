@@ -1,0 +1,42 @@
+{
+  "name": "angular-metarender",
+  "version": "1.0.0",
+  "description": "angular-metarender is a node module which is help to render siwith meta property",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammohitsharma92/angular-metarender.git"
+  },
+    "dependencies": {
+    "body-parser": "~1.18.2",
+    "chrome-remote-interface": "~0.24.2",
+    "compression": "~1.7.1",
+    "express": "~4.16.2",
+    "he": "~1.1.1",
+    "prerender": "^5.4.2",
+    "valid-url": "~1.0.9"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.1",
+    "sinon": "^2.2.0"
+  },
+
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "rendrer"
+  ],
+  "author": "Mohit sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iammohitsharma92/angular-metarender/issues"
+  },
+  "homepage": "https://github.com/iammohitsharma92/angular-metarender#readme"
+}
